@@ -1,0 +1,9 @@
+Building SanchoCoin
+
+See doc/readme-qt.rst for instructions on building SanchoCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of SanchoCoin.
+
+See doc/build-*.txt for instructions on building sanchocoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of SanchoCoin.
