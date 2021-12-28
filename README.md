@@ -3,8 +3,9 @@ SanchoCoin integration/staging tree
 
 http://www.sanchocoin.org
 
-Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 SanchoCoin Developers
+Copyright (c) 2009-2021 Bitcoin Developers
+Copyright (c) 2011-2021 Litecoin Developers
+Copyright (c) 2021 Sanchocoin Developer
 
 What is SanchoCoin?
 ----------------
