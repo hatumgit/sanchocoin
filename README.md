@@ -10,17 +10,14 @@ Copyright (c) 2021 Sanchocoin Developer
 What is SanchoCoin?
 ----------------
 
-SanchoCoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
-
-The rest is the same as Bitcoin.
- - 50 coins per block
+SanchoCoin is a version of Litecoin using scrypt as a proof-of-work algorithm.
+ - 1 minute block targets
+ - subsidy halves in 840.000.00 blocks
+ - ~84 billion total coins
+ - 5000 coins per block
  - 2016 blocks to retarget difficulty
 
-For more information, as well as an immediately useable, binary version of
-the SanchoCoin client sofware, see http://www.sanchocoin.org.
+As of now the only usable binary is on Linux using Ubuntu.
 
 License
 -------
